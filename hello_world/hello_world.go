@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var message string
-	message = "Hello KC! "
+	message = "Hello World! "
 	fmt.Printf(message)
 
 }
